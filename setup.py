@@ -6,13 +6,13 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="agnoguard",
-    version="0.1.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    version="0.0.1",
+    author="Aayush Gid",
+    author_email="aayushgid598@gmail.com",
     description="Comprehensive LLM guardrails library for Agno framework",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/agnoguard",
+    url="https://github.com/aayush598/agnoguard",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 3 - Alpha",
