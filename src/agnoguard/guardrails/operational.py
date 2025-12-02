@@ -5,7 +5,8 @@
 # ==========================================
 
 from ..core.base import InputGuardrail, OutputGuardrail, GuardrailResult, GuardrailAction, GuardrailSeverity
-
+from typing import Dict, Any, Optional, List
+import re
 
 class ModelVersionPinGuardrail(InputGuardrail):
     """Ensures specific model version is used"""
