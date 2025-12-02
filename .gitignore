@@ -1,0 +1,7 @@
+venv
+__pycache__
+.pytest_cache
+.venv
+agnoguard.egg-info
+build
+.env
