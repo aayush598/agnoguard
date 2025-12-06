@@ -5,3 +5,4 @@ __pycache__
 agnoguard.egg-info
 build
 .env
+run.sh
